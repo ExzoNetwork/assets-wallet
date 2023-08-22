@@ -1,0 +1,19 @@
+{
+    "name": "Exzo Network",
+    "website": "https://exzo.network",
+    "description": "Exzo Network is a Layer 1 blockchain build for mass adoption bolstering low-costs, high speed transactions and a versatile development framework.",
+    "explorer": "https://evm.exzoscan.io",
+    "research": "https://coinmarketcap.com/alexandria/article/what-is-arbitrum",
+    "symbol": "XZO",
+    "rpc_url": "https://evm.exzo.network",
+    "coin_type": 1229,
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/exzo_network"
+        }
+    ]
+}
