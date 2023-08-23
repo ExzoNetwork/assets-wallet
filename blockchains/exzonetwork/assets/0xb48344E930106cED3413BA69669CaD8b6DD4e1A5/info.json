@@ -1,0 +1,32 @@
+{
+    "name": "Wrapped Exzo",
+    "website": "https://www.exzo.network",
+    "description": "Exzo Network is a layer-1 blockchain built for mass adoption with low-fees, fast transactions, and highly scalable.",
+    "explorer": "https://evm.exzoscan.io",
+    "type": "ERC20",
+    "symbol": "WXZO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb48344E930106cED3413BA69669CaD8b6DD4e1A5",
+    "tags": [
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ExzoNetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Exzo_Network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Exzo_Network/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/exzo-network/"
+        }
+    ]
+}
